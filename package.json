@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tully-cmd/tully-cmd.github.io-Portfolio",
+  "homepage": "https://Tully-cmd/Portfolio",
   "dependencies": {
     "-": "0.0.1",
     "gh-pages": "^5.0.0",
