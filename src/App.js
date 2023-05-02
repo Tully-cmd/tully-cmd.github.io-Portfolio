@@ -59,7 +59,7 @@ class App extends Component {
 
         <div>
         <h2>Banking Application Assignment</h2>
-           <p>Purpose of this assignment was to port Java application to an unfamiliar language.</p>
+           <p>The purpose of this assignment was to port Java application to an unfamiliar language.</p>
            <p>Programming Language: GO</p>
            <p>Skills used: Adapting to unfamiliar technology.</p>
            <a href="https://github.com/Tully-cmd/CS354LA4">Repository</a>
